@@ -1,1 +1,1 @@
-# quanttide-essay-of-business-entity
+# 量潮科技工作札记
