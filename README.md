@@ -9,18 +9,8 @@ essay/
 ├── AGENTS.md                    # Agent 工作指南
 ├── CHANGELOG.md                 # 版本记录
 ├── LICENSE                      # CC BY 4.0 许可证
-└── work/                        # 工作札记
 ```
 
-## 构建命令
-
-```bash
-# 构建 HTML
-jupyter-book build index.md --site
-
-# 清理构建
-jupyter-book clean .
-```
 
 ## 许可证
 
