@@ -1,7 +1,7 @@
 version: 1
 project:
-  title: 量潮科技工作札记
-  description: 量潮科技工作札记
+  title: 量潮科技工作札记与工作论文
+  description: 量潮科技工作札记与工作论文合集
   license: CC-BY-4.0
 site:
   template: book-theme
