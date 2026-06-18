@@ -11,9 +11,8 @@ essay/
 ├── LICENSE                      # CC BY 4.0 许可证
 │
 ├── agent/                       # AI Agent 工程
-├── business/                    # 商业增长与战略
 ├── code/                        # 软件工程与技术
-├── economics/                   # 经济学（宏观、平台经济）
+├── strategy/                    # 战略（宏观、平台经济、商业增长）
 ├── human/                       # 人力资源
 ├── knowl/                       # 知识工程
 ├── meta/                        # 元认知、知识治理哲学
