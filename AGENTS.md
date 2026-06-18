@@ -34,6 +34,22 @@
 - **提交修改** → CONTRIBUTING > 提交流程
 - **发布 Release** → CONTRIBUTING > 发布流程
 
+### 目录导航
+
+| 目录 | 内容 | 新增 |
+|------|------|------|
+| agent/ | AI Agent 工程 | |
+| business/ | 商业增长与战略 | ✅ 新增 |
+| code/ | 软件工程与技术 | |
+| economics/ | 经济学（宏观、平台经济） | ✅ 新增 |
+| human/ | 人力资源 | |
+| literature/ | 文学 | ✅ 新增 |
+| meta/ | 元认知、知识治理哲学 | |
+| organization/ | 组织治理与领导力 | |
+| qtclass/ | 教育平台（量潮课堂） | |
+| qtdata/ | 数据服务（量潮数据） | |
+| stdn/ | 标准化 | |
+
 ### 协作原则
 
 - 最小干预：仅用户明确请求时操作
