@@ -12,6 +12,7 @@ essay/
 │
 ├── agent/                       # AI Agent 工程
 ├── code/                        # 软件工程与技术
+├── connect/                     # 沟通与连接
 ├── strategy/                    # 战略（宏观、平台经济、商业增长、商业计划）
 ├── human/                       # 人力资源
 ├── knowl/                       # 知识工程
