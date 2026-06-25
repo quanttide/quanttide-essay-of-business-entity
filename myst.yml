@@ -3,5 +3,16 @@ project:
   title: 量潮科技工作札记与工作论文
   description: 量潮科技工作札记与工作论文合集
   license: CC-BY-4.0
+  toc:
+    - file: README.md
+    - title: 战略
+      children:
+        - file: strategy/build-in-public.md
+        - file: strategy/platform_ecosystem.md
+        - file: strategy/industrial_economy.md
+        - file: strategy/chuzhou_macro_environment.md
+        - file: strategy/altruistic_commercialization.md
 site:
   template: book-theme
+  options:
+    favicon: favicon.svg
