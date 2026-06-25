@@ -8,6 +8,7 @@ project:
     - title: 战略
       children:
         - file: strategy/build-in-public.md
+        - file: strategy/build-in-public-and-beyond.md
         - file: strategy/platform_ecosystem.md
         - file: strategy/industrial_economy.md
         - file: strategy/chuzhou_macro_environment.md
