@@ -12,6 +12,9 @@ project:
         - file: strategy/industrial_economy.md
         - file: strategy/chuzhou_macro_environment.md
         - file: strategy/altruistic_commercialization.md
+    - title: 量潮课堂
+      children:
+        - file: qtclass/vibe-coding.md
 site:
   template: book-theme
   options:
