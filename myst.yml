@@ -14,7 +14,8 @@ project:
         - file: strategy/altruistic_commercialization.md
     - title: 量潮课堂
       children:
-    - file: qtclass/course/vibe-coding.md
+        - file: qtclass/course/vibe-coding.md
+        - file: qtclass/interactive_cinematic_classroom.md
 site:
   template: book-theme
   options:
