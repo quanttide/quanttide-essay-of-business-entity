@@ -1,6 +1,24 @@
 # CHANGELOG
 
-## [Unreleased]
+## [v0.1.2] - 2026-07-29
+
+### Added
+
+- 新增战略系列：build-in-public、平台生态、产业经济、滁州宏观环境、利他商业化、中国经济困境与突破
+- 新增组织治理系列：草根团队组织、领导风格、文人领导力、政治学重构管理
+- 新增量潮课堂系列：议事课堂、产教融合、互动影游式编程课堂、Vibe Coding 课程
+- 新增 qtdata 系列：新媒体运营复盘、qtdata 索引
+- 新增其他文档：沟通管理标准、招聘、数据工程知识库、媒体索引、云与 AI 原生未来
+- 更新 myst.yml 目录结构
+
+### Changed
+
+- 目录重构：stdn → meta
+- 重命名 llm_model_character → llm-model-character
+
+### Removed
+
+- 移除 agent_harness_with_sil.md
 
 ## [v0.1.1] - 2026-05-05
 
