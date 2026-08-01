@@ -15,7 +15,8 @@ project:
     - title: 量潮课堂
       children:
         - file: qtclass/course/vibe-coding.md
-        - file: qtclass/interactive_cinematic_classroom.md
+        - file: qtclass/product/interactive_video_course.md
+        - file: qtclass/product/ai_education_app_direction.md
 site:
   template: book-theme
   options:
