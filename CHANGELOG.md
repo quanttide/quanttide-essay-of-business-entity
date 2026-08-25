@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## [v0.1.3] - 2026-08-25
+
+### Added
+
+- 新增 qtconsult 系列：企业咨询服务（从 tutorial 仓库迁移）
+
+### Changed
+
+- 从 tutorial 仓库迁移 qtconsult/index.md 到 essay/qtconsult/index.md
+
 ## [v0.1.2] - 2026-07-29
 
 ### Added

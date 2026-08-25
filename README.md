@@ -20,6 +20,7 @@ essay/
 ├── organization/                # 组织治理与领导力
 ├── qtclass/                     # 教育平台（量潮课堂）
 ├── qtcloud/                     # 云与智能（量潮数据云）
+├── qtconsult/                   # 企业咨询服务
 ├── qtdata/                      # 数据服务（量潮数据）
 ```
 
