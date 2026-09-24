@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [Unreleased]
+
+### Changed
+
+- qtdata/new_media_operations_postmortem.md 迁移至 media/new_media_operations_postmortem.md（新媒体运营复盘归媒体主题）
+
 ## [v0.1.3] - 2026-08-25
 
 ### Added
