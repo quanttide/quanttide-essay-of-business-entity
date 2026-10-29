@@ -87,3 +87,4 @@
 - 新增 CONTRIBUTING.md：贡献指南
 - 新增 AGENTS.md：Agent 工作指南
 - 新增 work/ 目录结构
+- 移除 qtrecurit 随笔：迁移至量潮创新联盟随笔仓（quanttide-essay-of-innovation-alliance）
